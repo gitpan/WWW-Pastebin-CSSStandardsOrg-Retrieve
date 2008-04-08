@@ -3,7 +3,7 @@ package WWW::Pastebin::CSSStandardsOrg::Retrieve;
 use warnings;
 use strict;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 use Carp;
 use Devel::TakeHashArgs;
